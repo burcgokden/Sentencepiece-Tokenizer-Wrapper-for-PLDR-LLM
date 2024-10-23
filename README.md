@@ -1,6 +1,6 @@
 ## Sentencepiece Tokenizer Wrapper for PLDR-LLM
 
-This repository implements a wrapper code for generating a Sentencepiece Vocabulary and Tokenizer model from RefinedWeb dataset using tensorflow-text package. The tokenizers generated with this wrapper script are used in the research article: PLDR-LLM: Large Language Model From Power Law Decoder Representations.
+This repository implements a wrapper code for generating a Sentencepiece Vocabulary and Tokenizer model from RefinedWeb dataset using tensorflow-text package. The tokenizers generated with this wrapper script are used in the research article: [PLDR-LLM: Large Language Model From Power Law Decoder Representations](https://arxiv.org/abs/2410.16703).
 
 More information on Sentencepiece tokenizer can be found in articles:
 - [SentencePiece: A simple and language independent subword tokenizer and detokenizer for Neural Text Processing](https://arxiv.org/abs/1808.06226) 
